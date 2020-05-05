@@ -8,9 +8,9 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can compose a tweet. (4pts)
-- [ ] User can favorite a tweet. (4pts)
-- [ ] User can retweet a tweet. (2pts)
+- [x] User can compose a tweet. (4pts)
+- [x] User can favorite a tweet. (4pts)
+- [x] User can retweet a tweet. (2pts)
 
 The following **bonus** features are implemented:
 
@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/SUYZWIf6My.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/n9N5nkU9Kx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 # Twitter - Part I
 
 This is a basic twitter app to read your tweets.
@@ -33,11 +33,11 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User sees app icon in home screen and styled launch screen. (1pt)
-- [ ] User can log in. (1pt)
-- [ ] User can log out. (1pt)
-- [ ] User stays logged in across restarts. (1pt)
-- [ ] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [x] User sees app icon in home screen and styled launch screen. (1pt)
+- [x] User can log in. (1pt)
+- [x] User can log out. (1pt)
+- [x] User stays logged in across restarts. (1pt)
+- [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
 
 The following **bonus** features are implemented:
 
@@ -48,5 +48,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/n9N5nkU9Kx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/SUYZWIf6My.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
